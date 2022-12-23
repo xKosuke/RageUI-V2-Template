@@ -1,1 +1,1 @@
-Ce code crée un menu nommé "Mon menu" avec trois options : "Option 1", "Option 2" et "Option 3". Le menu s'affiche lorsque l'utilisateur appuie sur la touche F3. Vous pouvez remplacer les options et le code associé par ce qui vous convient le mieux.
+
